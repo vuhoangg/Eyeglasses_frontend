@@ -3,3 +3,6 @@
 - commit second 
 1.cấu hình lại cổng ở file vite.config 
 2.Tạo file env 
+- commit triple 
+1. cài thư viện react router 
+npm i react-router-dom
