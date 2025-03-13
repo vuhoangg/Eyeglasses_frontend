@@ -1,8 +1,13 @@
 
 
 - commit second 
-1.cấu hình lại cổng ở file vite.config 
-2.Tạo file env 
+    1.cấu hình lại cổng ở file vite.config 
+    2.Tạo file env 
 - commit triple 
-1. cài thư viện react router 
-npm i react-router-dom
+    1. cài thư viện react router 
+    npm i react-router-dom
+    2. config react router 
+- commit letter 4
+    1. cài đặt thu viện antd 
+    cú pháp cài đặt thư viện antd : npm i antd
+    cú pháp cài đặt thư viện antd và icon : npm i @ant-design/icons
